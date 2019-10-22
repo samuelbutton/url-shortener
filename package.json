@@ -15,12 +15,12 @@
     "mongodb",
     "nodejs"
   ],
-  "author": "Ayo Isaiah",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/freshman-tech/url-shortener/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/freshman-tech/url-shortener#readme",
+  "homepage": "",
   "devDependencies": {
     "nodemon": "^1.18.9"
   },
@@ -30,5 +30,8 @@
     "express": "^4.16.4",
     "mongodb": "^3.1.10",
     "nanoid": "^2.0.1"
+  },
+"engines": {
+    "node": "11.12.0"
   }
 }
